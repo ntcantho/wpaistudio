@@ -1,0 +1,6 @@
+{
+  "name": "WordPress Template Studio",
+  "description": "Visual drag-and-drop WordPress template builder with clean PHP/CSS source code export, diverse template library, real-time sync, SEO optimizer, multi-device preview, and Gemini AI assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
